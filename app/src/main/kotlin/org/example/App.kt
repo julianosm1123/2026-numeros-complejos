@@ -33,7 +33,7 @@ class Complejo{
     fun mostrarcomplejo(real:Int, imaginario:Int) {
         this.real=real
         this.imaginario=imaginario
-        println("(${real}, ${imaginario})")
+        println("El número es: (${real}, ${imaginario})")
 
     }
 
